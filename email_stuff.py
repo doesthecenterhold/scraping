@@ -1,7 +1,7 @@
 import yagmail
 
 username="mr.dobrevski@gmail.com"
-password="kdbmppuxkudzotok"
+password="xxx"
 
 
 def send_email(recipient, subject, content):
